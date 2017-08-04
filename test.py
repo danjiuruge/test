@@ -5,4 +5,5 @@ if os.path.exists("./tmp"):
     print("exist.")
 else:
     print("not exist.")
+    print("ddddd")
 
